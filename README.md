@@ -46,9 +46,7 @@ button:hover{background:#d1d1d1}
 <p style="text-align:center;font-size:12px;margin-top:15px;color:#888">Built by Okeke Julieth Ujunwa</p>
 <p> <a href="https://github.com/juliethhelen77-hash/Calculator-" target="_blank" style="color:#64ffda; background:#0a192f; padding:5px 10px; border-radius:5px; text-decoration:none;">View Live -></a>
 </p>
-
 </div>
-
 <script>
 let display = document.getElementById('display');
 function append(val){ display.value += val; }
@@ -59,5 +57,7 @@ function calculate(){
   catch{ display.value = 'Error'; }
 }
 </script>
+<a href= "https://github.com/juliethhelen77-hash/To-Do-List" target="_blank" style="color:#64ffda; background:#0a192f; padding:5px 10px; border-radius:5px; text-decoration:none;">View Live -></a>
+
 </body>
 </html>
