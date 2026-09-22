@@ -58,6 +58,6 @@ function calculate(){
 }
 </script>
 <a href= "https://github.com/juliethhelen77-hash/To-Do-List" target="_blank" style="color:#64ffda; background:#0a192f; padding:5px 10px; border-radius:5px; text-decoration:none;">View Live -></a>
-
+<a href= "https://github.com/juliethhelen77-hash/Stop-watch-app" target="_blank" style="color:#64ffda; background:#0a192f; padding:5px 10px; border-radius:5px; text-decoration:none;">View Live -></a>
 </body>
 </html>
